@@ -1,0 +1,43 @@
+figure {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+figcaption {
+    padding-top: 4em;
+    font-style: italic;
+    margin-top: 10px;
+    font-size: x-large;
+    color: aqua;
+}
+
+body {
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/1688269881284436251/C918C16147A4307E186CC509227B106C8FBD02D8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+div {
+    margin-top: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: #FFFAE3;
+    font-style: italic;
+    font-size: 12px;
+}
+
+a {
+    color: aqua;
+}
+
+
